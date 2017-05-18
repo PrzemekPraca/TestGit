@@ -7,5 +7,8 @@ public class TestGit {
 			suma+=(a+i)+(b+i);
 		}
 		System.out.println(suma);
+		/*
+		 * komentarz
+		 */
 	}
 }
