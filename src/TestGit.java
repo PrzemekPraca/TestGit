@@ -10,5 +10,7 @@ public class TestGit {
 		/*
 		 * komentarz
 		 */
+		
+		// komentarz 3
 	}
 }
