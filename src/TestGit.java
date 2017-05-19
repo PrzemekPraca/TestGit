@@ -11,10 +11,10 @@ public class TestGit {
 		 * komentarz
 		 */
 		
-<<<<<<< HEAD
+//<<<<<<< HEAD
 		// komentarz 3
-=======
+//=======
 		//kolejny komentarz
->>>>>>> FirstBranch
+//>>>>>>> FirstBranch
 	}
 }
