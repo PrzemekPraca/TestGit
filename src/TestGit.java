@@ -13,6 +13,8 @@ public class TestGit {
 		
 //<<<<<<< HEAD
 		// komentarz 3
+		
+		//komentarz2
 //=======
 		//kolejny komentarz
 //>>>>>>> FirstBranch

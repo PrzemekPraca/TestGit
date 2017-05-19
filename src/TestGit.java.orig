@@ -12,9 +12,14 @@ public class TestGit {
 		 */
 		
 <<<<<<< HEAD
+//<<<<<<< HEAD
 		// komentarz 3
-=======
+//=======
 		//kolejny komentarz
->>>>>>> FirstBranch
+//>>>>>>> FirstBranch
+=======
+		
+		//komentarz2
+>>>>>>> feature_x
 	}
 }
